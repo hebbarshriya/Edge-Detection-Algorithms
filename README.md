@@ -31,7 +31,7 @@ The experimental results demonstrate the advantages of using CUDA for edge detec
 
 #### Future Work
 Future enhancements to this project could include:
-- Implementing additional edge detection algorithms and comparing their performance.
+- Implement additional edge detection algorithms and compare their performance.
 - Exploring optimization techniques to further improve the efficiency of CUDA implementations.
 - Extending the evaluation to different types of images and more complex datasets.
 - Investigating the impact of various CUDA configurations and hardware setups on performance.
